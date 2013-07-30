@@ -17,5 +17,6 @@ public class TesteCopia {
         // TODO code application logic here
         
         System.out.println("yyyyyyy");
+        System.out.println("yyyyyyy");
     }
 }
